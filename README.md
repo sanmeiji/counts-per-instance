@@ -1,2 +1,2 @@
 # counts-per-instance
-A tiny project on counts per mastodon instance of my personal account on cmx.im
+A tiny project counting number of following accounts per mastodon instance for my personal account on cmx.im
