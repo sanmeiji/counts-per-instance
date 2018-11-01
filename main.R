@@ -1,4 +1,3 @@
-setwd("~/Desktop/following_accounts")
 library(tidyverse)
 
 accounts <- read_csv("following_accounts.csv")
