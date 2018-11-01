@@ -1,5 +1,6 @@
 library(tidyverse)
 
+# original output has been splited in Excel
 accounts <- read_csv("following_accounts.csv")
 
 group_by(accounts, instance) %>% 
